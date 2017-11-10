@@ -1,11 +1,12 @@
 [ ![Download](https://api.bintray.com/packages/imany/widget_maven/widget/images/download.svg) ](https://bintray.com/imany/widget_maven/widget/_latestVersion)
 
 # install
+app build.gradle
 ```
 implementation 'apk.imany.widget:widget:1.0.0'
 ```
 
-
+<img src="https://github.com/Imany-apk/widget/blob/master/scanner.gif" height="400px" /> <img src="https://github.com/Imany-apk/widget/blob/master/scanner2.gif" height="400px" />
 
 ## simplest use of ScannerView
 
