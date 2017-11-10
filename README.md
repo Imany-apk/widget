@@ -14,7 +14,6 @@ implementation 'apk.imany.widget:widget:1.0.0'
 <apk.imany.widget.ScannerView
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_weight="1"
     />
 ```
 
@@ -25,7 +24,8 @@ sc_background // setting background
 sc_color_first, sc_color_second // set same color for solid
 sc_padding // setting padding
 sc_back_light // for draw outside of circle
-sc_mini_top_left, sc_mini_top_right, sc_mini_bottom_left, sc_mini_bottom_right, sc_mini_all // mini scanners boolean
+// mini scanners boolean
+sc_mini_top_left, sc_mini_top_right, sc_mini_bottom_left, sc_mini_bottom_right, sc_mini_all
 sc_shadow_radius // in dp
 sc_shadow_color // shadow color
 sc_speed // 1 <= speed <= 5
