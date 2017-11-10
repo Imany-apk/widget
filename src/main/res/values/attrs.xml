@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ScannerView">
+        <attr name="sc_background" format="color" />
+        <attr name="sc_color_first" format="color" />
+        <attr name="sc_color_second" format="color" />
+        <attr name="sc_padding" format="dimension" />
+        <attr name="sc_back_light" format="boolean" />
+        <attr name="sc_mini_top_left" format="boolean" />
+        <attr name="sc_mini_top_right" format="boolean" />
+        <attr name="sc_mini_bottom_left" format="boolean" />
+        <attr name="sc_mini_bottom_right" format="boolean" />
+        <attr name="sc_mini_all" format="boolean" />
+        <attr name="sc_shadow_radius" format="dimension" />
+        <attr name="sc_shadow_color" format="color" />
+        <attr name="sc_speed" format="integer" />
+    </declare-styleable>
+
+    <declare-styleable name="RadarView">
+        <attr name="rd_background" format="color" />
+        <attr name="rd_color_first" format="color" />
+        <attr name="rd_color_second" format="color" />
+        <attr name="rd_padding" format="dimension" />
+        <attr name="rd_shadow_radius" format="dimension" />
+        <attr name="rd_shadow_color" format="color" />
+        <attr name="rd_speed" format="integer" />
+    </declare-styleable>
+
+</resources>
